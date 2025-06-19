@@ -1,87 +1,170 @@
-# 👋 Hello World, I'm Dean! 
+# <div align="center">🌟 Welcome to My Digital Realm 🌟</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hi%20👋%20I'm%20Deandev&fontSize=50&fontAlignY=40&desc=Masih%20Pemula%20Puh%20!&descAlignY=60&descSize=20&animation=fadeIn" />
 </div>
 
 <div align="center">
-  
-  [![GitHub followers](https://img.shields.io/github/followers/deandev?style=for-the-badge&color=purple&labelColor=1a1b27)](https://github.com/deandev)
-  [![GitHub stars](https://img.shields.io/github/stars/deandev?style=for-the-badge&color=purple&labelColor=1a1b27)](https://github.com/deandev)
-  [![Profile views](https://komarev.com/ghpvc/?username=deandev&style=for-the-badge&color=purple&label=Profile+Views)](https://github.com/deandev)
-  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Always+Learning+%26+Growing+%F0%9F%8C%B1;Code+%7C+Create+%7C+Innovate+%E2%9C%A8" alt="Typing Animation" />
 </div>
 
 ---
 
-## 🚀 About Me
-
-```typescript
-const dean = {
-    pronouns: "He/Him",
-    location: "Jakarta, Indonesia 🇮🇩",
-    role: "Full Stack Developer",
-    languages: ["JavaScript", "TypeScript", "Python", "Go"],
-    hobbies: ["🎮 Gaming", "📚 Reading", "🎵 Music", "☕ Coffee"],
-    funFact: "I debug with console.log and I'm not ashamed! 😄"
-};
-```
+## 🎭 About Me
 
 <div align="center">
+
+```javascript
+class Deandev {
+  constructor() {
+    this.name = "Dean Developer";
+    this.role = "Full Stack Developer";
+    this.location = "Indonesia 🇮🇩";
+    this.status = "Masih Pemula Puh!";
+    this.mindset = "Learning Never Stops";
+    this.coffee = "☕ Essential Fuel";
+  }
   
-### 💼 Currently Working With
+  getCurrentFocus() {
+    return [
+      "Building awesome web applications 🌐",
+      "Exploring mobile development with Flutter 📱",
+      "Mastering backend with Laravel & PHP 🔧",
+      "Creating beautiful UIs with modern frameworks ✨"
+    ];
+  }
+  
+  getLifePhilosophy() {
+    return "Code with passion, learn with curiosity! 🚀";
+  }
+}
+
+const dean = new Deandev();
+```
+
+</div>
+
+---
+
+## 🛠️ My Tech Arsenal
+
+<div align="center">
+
+### 🎨 Frontend Magic
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
+    <td align="center" width="120">
+      <div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; border: 1px solid rgba(255,255,255,0.2);">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60" height="60" alt="HTML5"/>
+        <br><strong>HTML5</strong>
+        <br><small>Structure</small>
+      </div>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript
+    <td align="center" width="120">
+      <div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; border: 1px solid rgba(255,255,255,0.2);">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="60" height="60" alt="CSS3"/>
+        <br><strong>CSS3</strong>
+        <br><small>Styling</small>
+      </div>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br>React
+    <td align="center" width="120">
+      <div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; border: 1px solid rgba(255,255,255,0.2);">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript"/>
+        <br><strong>JavaScript</strong>
+        <br><small>Logic</small>
+      </div>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br>Node.js
+    <td align="center" width="120">
+      <div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; border: 1px solid rgba(255,255,255,0.2);">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="60" height="60" alt="Bootstrap"/>
+        <br><strong>Bootstrap</strong>
+        <br><small>Framework</small>
+      </div>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
-      <br>Go
+    <td align="center" width="120">
+      <div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; border: 1px solid rgba(255,255,255,0.2);">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60" height="60" alt="Tailwind"/>
+        <br><strong>Tailwind</strong>
+        <br><small>Utility-First</small>
+      </div>
     </td>
   </tr>
+</table>
+
+### ⚙️ Backend Power
+
+<table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-      <br>Next.js
+    <td align="center" width="120">
+      <div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; border: 1px solid rgba(255,255,255,0.2);">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="60" height="60" alt="PHP"/>
+        <br><strong>PHP</strong>
+        <br><small>Server-Side</small>
+      </div>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
-      <br>Vue
+    <td align="center" width="120">
+      <div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; border: 1px solid rgba(255,255,255,0.2);">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="60" height="60" alt="Laravel"/>
+        <br><strong>Laravel</strong>
+        <br><small>Elegant</small>
+      </div>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-      <br>Tailwind
+    <td align="center" width="120">
+      <div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; border: 1px solid rgba(255,255,255,0.2);">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60" alt="Python"/>
+        <br><strong>Python</strong>
+        <br><small>Versatile</small>
+      </div>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      <br>Docker
+  </tr>
+</table>
+
+### 🗄️ Database & Storage
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; border: 1px solid rgba(255,255,255,0.2);">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" alt="MySQL"/>
+        <br><strong>MySQL</strong>
+        <br><small>Relational</small>
+      </div>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
+    <td align="center" width="120">
+      <div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; border: 1px solid rgba(255,255,255,0.2);">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="60" height="60" alt="MongoDB"/>
+        <br><strong>MongoDB</strong>
+        <br><small>NoSQL</small>
+      </div>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
+  </tr>
+</table>
+
+### 📱 Mobile & Tools
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; border: 1px solid rgba(255,255,255,0.2);">
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="60" height="60" alt="Flutter"/>
+        <br><strong>Flutter</strong>
+        <br><small>Cross-Platform</small>
+      </div>
+    </td>
+    <td align="center" width="120">
+      <div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; border: 1px solid rgba(255,255,255,0.2);">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60" height="60" alt="Postman"/>
+        <br><strong>Postman</strong>
+        <br><small>API Testing</small>
+      </div>
+    </td>
+    <td align="center" width="120">
+      <div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; border: 1px solid rgba(255,255,255,0.2);">
+        <img src="https://www.chartjs.org/media/logo-title.svg" width="60" height="60" alt="Chart.js"/>
+        <br><strong>Chart.js</strong>
+        <br><small>Visualization</small>
+      </div>
     </td>
   </tr>
 </table>
@@ -90,95 +173,126 @@ const dean = {
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deandev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deandev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff"/>
+
+### 🔥 Current Stats
+
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  
+<img height="195em" src="https://github-readme-stats.vercel.app/api?username=deandev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117,161b22,21262d&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&border_radius=15"/>
+
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deandev&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117,161b22,21262d&title_color=00d9ff&text_color=ffffff&border_radius=15"/>
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deandev&theme=tokyonight&hide_border=true&background=0D1117&stroke=a855f7&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" alt="GitHub Streak Stats" />
-</div>
+### ⚡ Activity Streak
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deandev&theme=radical&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&border_radius=15" alt="GitHub Streak Stats" />
 
-## 🏆 GitHub Trophies
+### 🏆 Achievement Showcase
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deandev&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=deandev&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 
----
-
-## 🔥 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deandev&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff" alt="Contribution Graph" />
 </div>
 
 ---
 
-## 🎵 Now Playing on Spotify
+## 🌊 Contribution Flow
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=a855f7" alt="Spotify Now Playing" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deandev&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ff6b6b&area=true&area_color=00d9ff" alt="Contribution Graph" />
 </div>
 
 ---
 
-## 💻 Recent Projects
+## 🎯 Current Journey
+
+<div align="center">
+
+### 🚀 What I'm Building
+
+```yaml
+Current Projects:
+  🌐 Web Applications: "Modern responsive websites with Laravel"
+  📱 Mobile Apps: "Cross-platform apps with Flutter"
+  🔧 API Development: "RESTful APIs for seamless integration"
+  📊 Data Visualization: "Interactive charts with Chart.js"
+
+Learning Path:
+  📚 Currently: "Advanced Laravel techniques"
+  🎯 Next: "Flutter state management"
+  🔮 Future: "Cloud deployment & DevOps"
+```
+
+</div>
+
+---
+
+## 🌟 Profile Insights
 
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deandev&repo=awesome-project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff)](https://github.com/deandev/awesome-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deandev&repo=cool-webapp&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff)](https://github.com/deandev/cool-webapp)
+![Profile Views](https://komarev.com/ghpvc/?username=deandev&label=Profile%20Views&color=00d9ff&style=for-the-badge&logo=eye)
+![GitHub followers](https://img.shields.io/github/followers/deandev?style=for-the-badge&color=00d9ff&labelColor=1a1b27)
+![GitHub stars](https://img.shields.io/github/stars/deandev?style=for-the-badge&color=00d9ff&labelColor=1a1b27)
 
 </div>
 
 ---
 
-## 🤝 Let's Connect!
+## 💭 Daily Motivation
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deandev)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/deandev)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/deandev)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/deandev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dean@example.com)
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it&author=Peter%20Drucker" alt="Quote" />
+</div>
 
+---
+
+## 🤝 Let's Connect & Collaborate!
+
+<div align="center">
+
+### 💌 Reach Out to Me
+
+[![Email](https://img.shields.io/badge/Email-00d9ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dean@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00d9ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deandev)
+[![Twitter](https://img.shields.io/badge/Twitter-00d9ff?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/deandev)
+[![Discord](https://img.shields.io/badge/Discord-00d9ff?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/deandev)
+
+### 📝 Open for:
+- 🤝 Collaboration on interesting projects
+- 💡 Discussing new technologies and ideas  
+- 📚 Sharing knowledge and learning together
+- ☕ Virtual coffee chats about coding
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/deandev/deandev/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
 ---
 
 <div align="center">
   
-### 💬 Random Dev Quote
+### 🎭 Fun Fact
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote" />
+*"Masih pemula tapi semangat belajar! Every expert was once a beginner. 🌱→🌳"*
 
-</div>
+### ✨ Thank You for Visiting! ✨
 
----
-
-<div align="center">
-  
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/deandev/deandev/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Happy%20Coding!&fontSize=30&fontAlignY=70&animation=twinkling" />
 
 </div>
 
 ---
 
 <div align="center">
-  
-### ✨ Thanks for visiting! ✨
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Happy%20Coding!&fontSize=50&fontAlignY=65&animation=twinkling" />
-
+  <sub>Made with ❤️ by Deandev | Last updated: 2025</sub>
 </div>
-
-<!-- Invisible image for analytics -->
-<img src="https://analytics.deandev.me/github-profile" width="1" height="1" />
