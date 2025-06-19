@@ -1,4 +1,4 @@
-# <div align="center">🌟 Welcome to My Digital Realm 🌟</div>
+# <div align="center">🌟 Welcome to My Github Profile 🌟</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hi%20👋%20I'm%20Deandev&fontSize=50&fontAlignY=40&desc=Masih%20Pemula%20Puh%20!&descAlignY=60&descSize=20&animation=fadeIn" />
@@ -55,39 +55,29 @@ const dean = new Deandev();
 <table>
   <tr>
     <td align="center" width="120">
-      <div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; border: 1px solid rgba(255,255,255,0.2);">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60" height="60" alt="HTML5"/>
-        <br><strong>HTML5</strong>
-        <br><small>Structure</small>
-      </div>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60" height="60" alt="HTML5"/>
+      <br><strong>HTML5</strong>
+      <br><small>Structure</small>
     </td>
     <td align="center" width="120">
-      <div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; border: 1px solid rgba(255,255,255,0.2);">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="60" height="60" alt="CSS3"/>
-        <br><strong>CSS3</strong>
-        <br><small>Styling</small>
-      </div>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="60" height="60" alt="CSS3"/>
+      <br><strong>CSS3</strong>
+      <br><small>Styling</small>
     </td>
     <td align="center" width="120">
-      <div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; border: 1px solid rgba(255,255,255,0.2);">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript"/>
-        <br><strong>JavaScript</strong>
-        <br><small>Logic</small>
-      </div>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript"/>
+      <br><strong>JavaScript</strong>
+      <br><small>Logic</small>
     </td>
     <td align="center" width="120">
-      <div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; border: 1px solid rgba(255,255,255,0.2);">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="60" height="60" alt="Bootstrap"/>
-        <br><strong>Bootstrap</strong>
-        <br><small>Framework</small>
-      </div>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="60" height="60" alt="Bootstrap"/>
+      <br><strong>Bootstrap</strong>
+      <br><small>Framework</small>
     </td>
     <td align="center" width="120">
-      <div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; border: 1px solid rgba(255,255,255,0.2);">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60" height="60" alt="Tailwind"/>
-        <br><strong>Tailwind</strong>
-        <br><small>Utility-First</small>
-      </div>
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60" height="60" alt="Tailwind"/>
+      <br><strong>Tailwind</strong>
+      <br><small>Utility-First</small>
     </td>
   </tr>
 </table>
@@ -97,25 +87,19 @@ const dean = new Deandev();
 <table>
   <tr>
     <td align="center" width="120">
-      <div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; border: 1px solid rgba(255,255,255,0.2);">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="60" height="60" alt="PHP"/>
-        <br><strong>PHP</strong>
-        <br><small>Server-Side</small>
-      </div>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="60" height="60" alt="PHP"/>
+      <br><strong>PHP</strong>
+      <br><small>Server-Side</small>
     </td>
     <td align="center" width="120">
-      <div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; border: 1px solid rgba(255,255,255,0.2);">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="60" height="60" alt="Laravel"/>
-        <br><strong>Laravel</strong>
-        <br><small>Elegant</small>
-      </div>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="60" height="60" alt="Laravel"/>
+      <br><strong>Laravel</strong>
+      <br><small>Elegant</small>
     </td>
     <td align="center" width="120">
-      <div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; border: 1px solid rgba(255,255,255,0.2);">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60" alt="Python"/>
-        <br><strong>Python</strong>
-        <br><small>Versatile</small>
-      </div>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60" alt="Python"/>
+      <br><strong>Python</strong>
+      <br><small>Versatile</small>
     </td>
   </tr>
 </table>
@@ -125,18 +109,14 @@ const dean = new Deandev();
 <table>
   <tr>
     <td align="center" width="120">
-      <div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; border: 1px solid rgba(255,255,255,0.2);">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" alt="MySQL"/>
-        <br><strong>MySQL</strong>
-        <br><small>Relational</small>
-      </div>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" alt="MySQL"/>
+      <br><strong>MySQL</strong>
+      <br><small>Relational</small>
     </td>
     <td align="center" width="120">
-      <div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; border: 1px solid rgba(255,255,255,0.2);">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="60" height="60" alt="MongoDB"/>
-        <br><strong>MongoDB</strong>
-        <br><small>NoSQL</small>
-      </div>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="60" height="60" alt="MongoDB"/>
+      <br><strong>MongoDB</strong>
+      <br><small>NoSQL</small>
     </td>
   </tr>
 </table>
@@ -146,25 +126,19 @@ const dean = new Deandev();
 <table>
   <tr>
     <td align="center" width="120">
-      <div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; border: 1px solid rgba(255,255,255,0.2);">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="60" height="60" alt="Flutter"/>
-        <br><strong>Flutter</strong>
-        <br><small>Cross-Platform</small>
-      </div>
+      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="60" height="60" alt="Flutter"/>
+      <br><strong>Flutter</strong>
+      <br><small>Cross-Platform</small>
     </td>
     <td align="center" width="120">
-      <div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; border: 1px solid rgba(255,255,255,0.2);">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60" height="60" alt="Postman"/>
-        <br><strong>Postman</strong>
-        <br><small>API Testing</small>
-      </div>
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60" height="60" alt="Postman"/>
+      <br><strong>Postman</strong>
+      <br><small>API Testing</small>
     </td>
     <td align="center" width="120">
-      <div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; border: 1px solid rgba(255,255,255,0.2);">
-        <img src="https://www.chartjs.org/media/logo-title.svg" width="60" height="60" alt="Chart.js"/>
-        <br><strong>Chart.js</strong>
-        <br><small>Visualization</small>
-      </div>
+      <img src="https://www.chartjs.org/media/logo-title.svg" width="60" height="60" alt="Chart.js"/>
+      <br><strong>Chart.js</strong>
+      <br><small>Visualization</small>
     </td>
   </tr>
 </table>
@@ -177,21 +151,11 @@ const dean = new Deandev();
 
 <div align="center">
 
-### 🔥 Current Stats
-
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  
 <img height="195em" src="https://github-readme-stats.vercel.app/api?username=deandev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117,161b22,21262d&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&border_radius=15"/>
 
 <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deandev&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117,161b22,21262d&title_color=00d9ff&text_color=ffffff&border_radius=15"/>
 
-</div>
-
-### ⚡ Activity Streak
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=deandev&theme=radical&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&border_radius=15" alt="GitHub Streak Stats" />
-
-### 🏆 Achievement Showcase
 
 <img src="https://github-profile-trophy.vercel.app/?username=deandev&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 
@@ -210,8 +174,6 @@ const dean = new Deandev();
 ## 🎯 Current Journey
 
 <div align="center">
-
-### 🚀 What I'm Building
 
 ```yaml
 Current Projects:
@@ -254,8 +216,6 @@ Learning Path:
 
 <div align="center">
 
-### 💌 Reach Out to Me
-
 [![Email](https://img.shields.io/badge/Email-00d9ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dean@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00d9ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deandev)
 [![Twitter](https://img.shields.io/badge/Twitter-00d9ff?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/deandev)
@@ -274,56 +234,7 @@ Learning Path:
 ## 🐍 Contribution Snake
 
 <div align="center">
-### 🛠️ Alternative Snake Animation (Working)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation Demo" />
-  
-  <!-- Atau gunakan yang ini jika ingin yang lebih colorful -->
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" alt="Animated Snake" width="100%" />
-</div>
-
-<details>
-<summary>🔧 Setup Snake Animation</summary>
-
-Untuk mengaktifkan snake animation, buat file `.github/workflows/snake.yml` di repository dengan kode berikut:
-
-```yaml
-name: Generate snake animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *" 
-  workflow_dispatch:
-  push:
-    branches:
-    - master
-
-jobs:
-  generate:
-    permissions: 
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    
-    steps:
-      - name: generate snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: deandev
-          outputs: dist/snake.svg?palette=github-dark
-
-      - name: push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
 </div>
 
 ---
