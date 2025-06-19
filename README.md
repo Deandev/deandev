@@ -105,7 +105,7 @@ const dean = new Deandev();
     </td>
     <td align="center" width="120">
       <div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; border: 1px solid rgba(255,255,255,0.2);">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="60" height="60" alt="Laravel"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="60" height="60" alt="Laravel"/>
         <br><strong>Laravel</strong>
         <br><small>Elegant</small>
       </div>
@@ -274,7 +274,56 @@ Learning Path:
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/deandev/deandev/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+### 🛠️ Alternative Snake Animation (Working)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation Demo" />
+  
+  <!-- Atau gunakan yang ini jika ingin yang lebih colorful -->
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" alt="Animated Snake" width="100%" />
+</div>
+
+<details>
+<summary>🔧 Setup Snake Animation</summary>
+
+Untuk mengaktifkan snake animation, buat file `.github/workflows/snake.yml` di repository dengan kode berikut:
+
+```yaml
+name: Generate snake animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" 
+  workflow_dispatch:
+  push:
+    branches:
+    - master
+
+jobs:
+  generate:
+    permissions: 
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
+    steps:
+      - name: generate snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: deandev
+          outputs: dist/snake.svg?palette=github-dark
+
+      - name: push snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
+
 </div>
 
 ---
