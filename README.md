@@ -92,7 +92,7 @@ const dean = new Deandev();
       <br><small>Server-Side</small>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="60" height="60" alt="Laravel"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="60" height="60" alt="Laravel"/>
       <br><strong>Laravel</strong>
       <br><small>Elegant</small>
     </td>
@@ -234,11 +234,29 @@ Learning Path:
 ## 🐍 GitHub Contribution Snake
 
 <div align="center">
+  <img src="https://github.com/deandev/deandev/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+<!-- Alternative Snake Animations (Pilih salah satu yang work) -->
+<div align="center">
+  
+  <!-- Option 1: Using Platane's snake generator -->
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
+  
+  <!-- Option 2: Using snake-svg service -->
+  <img src="https://github-readme-snake.vercel.app/api?username=deandev&theme=dark&hide_border=true&bg_color=0d1117&color=00d9ff" alt="Snake Animation" />
+  
+  <!-- Option 3: Contribution Graph Snake -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deandev/deandev/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deandev/deandev/output/github-contribution-grid-snake-dark.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/deandev/deandev/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deandev/deandev/output/github-snake-dark.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/deandev/deandev/output/github-snake.svg" />
   </picture>
+
+</div>
+
+<!-- Animated Contribution GIF Alternative -->
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" alt="Snake Eating Contributions" width="400px" />
 </div>
 
 ---
