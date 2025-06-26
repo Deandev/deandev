@@ -92,7 +92,7 @@ const dean = new Deandev();
       <br><small>Server-Side</small>
     </td>
     <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="60" height="60" alt="Laravel"/>
+      <img src="https://www.logo.wine/a/logo/Laravel/Laravel-Logo.wine.svg" width="60" height="60" alt="Laravel"/>
       <br><strong>Laravel</strong>
       <br><small>Elegant</small>
     </td>
